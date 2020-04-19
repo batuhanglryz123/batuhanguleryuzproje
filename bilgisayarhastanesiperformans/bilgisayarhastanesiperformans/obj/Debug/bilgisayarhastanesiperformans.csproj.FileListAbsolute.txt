@@ -1,0 +1,15 @@
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.csprojAssemblyReference.cache
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.durum.resources
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.Form1.resources
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.giris.resources
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.iletisim.resources
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.kayitolform.resources
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.kisiselbilgiler.resources
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.Properties.Resources.resources
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.csproj.GenerateResource.cache
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.csproj.CoreCompileInputs.cache
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\bin\Debug\bilgisayarhastanesiperformans.exe.config
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\bin\Debug\bilgisayarhastanesiperformans.exe
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\bin\Debug\bilgisayarhastanesiperformans.pdb
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.exe
+C:\Users\batu\source\repos\bilgisayarhastanesiperformans\bilgisayarhastanesiperformans\obj\Debug\bilgisayarhastanesiperformans.pdb
